@@ -20,7 +20,7 @@ Unlike other trackers, **SubscryptionMangment stores all data locally on your de
 
 | Dashboard | Subscription Groups | Member Details | Data Export |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/dash.png" width="200"> | <img src="screenshots/list1.png" width="200"> | <img src="screenshots/detail1.png" width="200"> | <img src="screenshots/export1.png" width="200"> |
+| <img src="screenshots/dash1.png" width="200"> | <img src="screenshots/list1.png" width="200"> | <img src="screenshots/detail1.png" width="200"> | <img src="screenshots/export1.png" width="200"> |
 
 ## 🛠 Technical Details
 * **Frontend:** 100% SwiftUI
